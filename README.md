@@ -1,6 +1,8 @@
 # Tableau_challenge
 Using Tableau to analyze Citi Bike Station. 
 
+## Data
+https://www.citibikenyc.com/system-data
 
 ## Story
 The story is in https://public.tableau.com/views/PeakandPopular/PopularstartstationandPeakTimeinSep2020?:language=en&:display_count=y&publish=yes&:origin=viz_share_link
