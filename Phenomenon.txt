@@ -1,0 +1,8 @@
+Today, what are the top 10 stations in the city for starting a journey? 
+	Count of Bike ID in Sept
+
+Today, what are the top 10 stations in the city for ending a journey? 
+	Count of Bike ID in Sept
+
+What is the peak time in September and different between gender.
+	By count of Bike ID and Avg of Tripduration.
